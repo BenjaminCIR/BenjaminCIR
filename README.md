@@ -60,8 +60,7 @@ An ambitious project exploring creative development approaches and problem-solvi
 ## 📫 How to Reach Me
 
 - GitHub: [@BenjaminCIR](https://github.com/BenjaminCIR)
-- Email: hubert.benja@gmail.com
-
+- Email: benjamin.hubert@student.junia.com
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BenjaminCIR&color=blue)
