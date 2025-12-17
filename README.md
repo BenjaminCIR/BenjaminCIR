@@ -6,20 +6,21 @@ I'm a passionate developer who loves to build and create. Welcome to my GitHub p
 
 ## 📌 Pinned Projects
 
-### 🎮 [WarAtTheTop](https://github.com/BenjaminCIR/WarAtTheTop)
-A JavaScript-based gaming project showcasing interactive web development and game mechanics.
-
-### 🧮 [TP-Calculatrice](https://github.com/BenjaminCIR/TP-Calculatrice)
-A calculator application built with JavaScript, demonstrating fundamental programming concepts and DOM manipulation.
-
-### ⚓ [RoadToRaftel](https://github.com/BenjaminCIR/RoadToRaftel)
-An ambitious project exploring creative development approaches and problem-solving.
+### 🎯 [Advanced-Matchmaking](https://github.com/BenjaminCIR/Advanced-Matchmaking)
+An advanced matchmaking system built with Python, featuring sophisticated algorithms for optimal pairing and matching.
 
 ### ☁️ [Cloud-Drive-App](https://github.com/BenjaminCIR/Cloud-Drive-App)
 A Python-based cloud storage application, implementing cloud integration and file management features.
 
-### 🎯 [Advanced-Matchmaking](https://github.com/BenjaminCIR/Advanced-Matchmaking)
-An advanced matchmaking system built with Python, featuring sophisticated algorithms for optimal pairing and matching.
+### 🫂 [ProjetInfoCir3](https://https://github.com/BenjaminCIR/ProjetInfoCir3)
+A student social connection and mental wellness tracking application project.
+
+### 🎮 [WarAtTheTop](https://github.com/BenjaminCIR/WarAtTheTop)
+A JavaScript-based gaming project showcasing interactive web development and game mechanics.
+
+### ⚓ [RoadToRaftel](https://github.com/BenjaminCIR/RoadToRaftel)
+An ambitious project exploring creative development approaches and problem-solving.
+
 
 ## 💻 Most Used Languages & Technologies
 
@@ -59,11 +60,7 @@ An advanced matchmaking system built with Python, featuring sophisticated algori
 ## 📫 How to Reach Me
 
 - GitHub: [@BenjaminCIR](https://github.com/BenjaminCIR)
-- Email: Feel free to reach out via GitHub
-
-## ⚡ Fun Fact
-
-I'm always excited to learn new technologies and collaborate on interesting projects!
+- Email: hubert.benja@gmail.com
 
 ---
 
