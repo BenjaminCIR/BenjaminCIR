@@ -53,7 +53,7 @@ An ambitious project exploring creative development approaches and problem-solvi
 
 ## 🌱 Currently Learning
 
-- Cloud Technologies (AWS, Azure)
+- Cloud Technologies (GCP, Azure)
 - Machine Learning & AI
 - DevOps Best Practices
 
